@@ -1,0 +1,5 @@
+test
+
+copy file
+
+foo bar
